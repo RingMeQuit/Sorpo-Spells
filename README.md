@@ -171,10 +171,6 @@ Here are all the drops currently:
 
 *(You can perform transformation spells on MOST of these items :wink:)*
 
-# JOIN OUR DISCORD FOR HELP
-https://dsc.gg/sorpo-spells
-
-##
 ## These are people who contributed to the project. Either with ideas or with anything else.
 ## Affiliated
 
